@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 065aa946bd8dd2a4db26b15adb1902e1, type: 3}
+  m_Name: 13_LevelData
+  m_EditorClassIdentifier: 
+  _index: 13
+  _numberBalls: 51
+  _neededStars: 35
+  _blocksOnGameField:
+    Rows:
+    - RowBlocks:
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 30
+        Type: 2
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 90
+        Type: 1
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 65
+        Type: 1
+    - RowBlocks:
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 30
+        Type: 2
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 85
+        Type: 1
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 60
+        Type: 1
+      - AmountEntities: 0
+        Type: 0
+    - RowBlocks:
+      - AmountEntities: 30
+        Type: 2
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 80
+        Type: 1
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 55
+        Type: 1
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 30
+        Type: 2
+    - RowBlocks:
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 75
+        Type: 1
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 50
+        Type: 1
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 25
+        Type: 2
+      - AmountEntities: 0
+        Type: 0
+    - RowBlocks:
+      - AmountEntities: 70
+        Type: 1
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 45
+        Type: 1
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 20
+        Type: 2
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+    - RowBlocks:
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 40
+        Type: 1
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 15
+        Type: 2
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+    - RowBlocks:
+      - AmountEntities: 35
+        Type: 2
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 10
+        Type: 2
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+    - RowBlocks:
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 5
+        Type: 2
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+    - RowBlocks:
+      - AmountEntities: 1
+        Type: 2
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+    - RowBlocks:
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
+      - AmountEntities: 0
+        Type: 0
