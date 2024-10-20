@@ -29,6 +29,10 @@
 - https://github.com/Leopotam/ecs
 - https://github.com/voody2506/UniLeo.git
 
+Уровни и скины в магазине реализованы через scriptable object, что позволяет быстро и легко добавлять новые данные в игру, при этом не переписывая код.
+Через метод OnGUI сделал более удобную отрисовку в инспекторе для создания увроней. Скриншот:
+![photo_2024-10-20_20-35-25](https://github.com/user-attachments/assets/13b490bf-bd03-480f-8e33-082a58f04e5e)
+
 # Cкриншоты
 
 ![Image Sequence_007_0000](https://github.com/user-attachments/assets/866b12e5-eed6-4a16-9e08-2ed042121c3e)
